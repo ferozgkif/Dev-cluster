@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: apache
-        image: ferozfrk/apache:18
+        image: 119375056512.dkr.ecr.us-east-1.amazonaws.com/feroz:app
         ports:
         - containerPort: 80
